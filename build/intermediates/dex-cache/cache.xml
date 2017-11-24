@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.6.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b325ed66dffa4ffd6e733cb452986bb3159d756">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\org.osmdroid-osmdroid-android-5.6.5_312155a3afb30b162790f99315165a0ea43b9b2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_302c765944344bda80cd8962b5b3ed9f421e0744.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_fbf30935a92ac87abc1e5f9c02490300dc20ee2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_171392397112d05845c61393902b0037e98ce9aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\Android Studio\gradle\m2repository\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\commons-lang3-3.3.2_b3b1ded05e2f678c09202a0bf2f4794367991c1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_19d7e08d2f50a067d478dd0f0a61041cdd4d0729.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_64e6734f3e2ccbf52b7a63238979bb9ac8b795d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_19d7e08d2f50a067d478dd0f0a61041cdd4d0729.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_7cafd681af9eb9994991e6a58c6e94245790ec36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_7cafd681af9eb9994991e6a58c6e94245790ec36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\M.AL-KHAIDA\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\okio-1.9.0_23d68440d578fe80f2eabf0a1023605ef63326a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_302c765944344bda80cd8962b5b3ed9f421e0744.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_fbf30935a92ac87abc1e5f9c02490300dc20ee2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\M.AL-KHAIDA\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\okio-1.9.0_23d68440d578fe80f2eabf0a1023605ef63326a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\M.AL-KHAIDA\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_1b2333c2dd8b154ebdcff4ff6ec4b159a1809837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_88d25b6db77c8a1cc909c16aaa22657bb8171f32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\exploded-aar\com.github.MKergall\osmbonuspack\6.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ba8b17f4d98f070709474217bff78f6aa11391d8">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\com.github.MKergall-osmbonuspack-6.4_b630ecb22fb719e0f40f5216b86b1872a0ae0a04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_b6c27d5164b97e0b664590cfadd7ceeb1e467545.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_64e6734f3e2ccbf52b7a63238979bb9ac8b795d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\M.AL-KHAIDA\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\gson-2.7_fbead1132c2b8be748bfe86e2f34f23658f2b955.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\M.AL-KHAIDA\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_1b2333c2dd8b154ebdcff4ff6ec4b159a1809837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\Android Studio\gradle\m2repository\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\commons-lang3-3.3.2_b3b1ded05e2f678c09202a0bf2f4794367991c1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_30292fda81c180466d0b2d95bc1ed02b76182d38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_b6c27d5164b97e0b664590cfadd7ceeb1e467545.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_30292fda81c180466d0b2d95bc1ed02b76182d38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\M.AL-KHAIDA\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\gson-2.7_fbead1132c2b8be748bfe86e2f34f23658f2b955.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_1ee062738e98ccfa1d7baf0498ef522cb7c83ec2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\exploded-aar\com.github.MKergall\osmbonuspack\6.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ba8b17f4d98f070709474217bff78f6aa11391d8">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\com.github.MKergall-osmbonuspack-6.4_b630ecb22fb719e0f40f5216b86b1872a0ae0a04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_171392397112d05845c61393902b0037e98ce9aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_88d25b6db77c8a1cc909c16aaa22657bb8171f32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.6.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b325ed66dffa4ffd6e733cb452986bb3159d756">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\org.osmdroid-osmdroid-android-5.6.5_312155a3afb30b162790f99315165a0ea43b9b2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Kuliah\semester 5\Permrograman Mobile\TUGAS-MARKER\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_1ee062738e98ccfa1d7baf0498ef522cb7c83ec2.jar" />
+    </item>
+
+</items>
